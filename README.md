@@ -1,17 +1,17 @@
- # Code Refactor Starter Code
+ # Horiseon Refactored
 
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
+## Introduction
+A project for Horiseon Incorporated, dedicated to improving the websites code through the following implementations:
+ - Refactoring and improvment of source code by appending semantic HTML.
+ - Structuring the source code, following a logical structure which is independent of styling and positioning.
+ - Implementation of alt titles to image elements. 
+ - Addition of sequential order to all heading attributes. 
+ - Completion of complete optimization for search engines with the adjoining of title elements with concise, descriptive titles. 
 
-GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
+## Technologies
+The technologies used to finalize the Horiseon website are as follows:
+ - HTML
+ - CSS 
+
+ ## Setup/ How to use
+ In order to use this, click on the following: 
